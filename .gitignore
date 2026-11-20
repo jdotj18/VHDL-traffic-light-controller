@@ -1,0 +1,35 @@
+# Vivado project and build output
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.bit
+*.dcp
+*.wdb
+*.wcfg
+webtalk*
+usage_statistics_webtalk.*
+vivado_pid*.zip
+
+# GHDL / ModelSim
+work/
+*.cf
+*.o
+*.ghw
+*.vcd
+*.wlf
+transcript
+
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
