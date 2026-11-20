@@ -1,4 +1,4 @@
-# CEG3155 Lab 3: Traffic Light Controller
+# VHDL Traffic Light Controller
 
 A traffic light controller for the intersection of a main street and a side street, written in structural VHDL and targeting the Digilent Nexys A7-100T (CEG3155 Digital Systems II, uOttawa).
 
